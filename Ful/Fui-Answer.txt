@@ -1,0 +1,4 @@
+A. Crtl + R
+B. ls -a | grep
+C. Bit familiar but extensively used 
+D. yes, smtp
